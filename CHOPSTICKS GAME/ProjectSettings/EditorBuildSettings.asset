@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Rules.unity
+    guid: ee064a5f6ab855c4baa8d85d4e724147
+  - enabled: 1
+    path: Assets/Scenes/Name Red.unity
+    guid: df687a9da5fab1f4383a84bf39c6698a
+  - enabled: 1
+    path: Assets/Scenes/Name Blue.unity
+    guid: fa20cd24a0706664d936b603180027e4
+  - enabled: 1
+    path: Assets/Scenes/Intermediary.unity
+    guid: 5cadefe92208d164691f694877e9eada
+  - enabled: 1
+    path: Assets/Scenes/MAINGAME.unity
+    guid: 323b647f39a5a854593ccbeb534f8374
+  - enabled: 1
+    path: Assets/Scenes/Red win.unity
+    guid: 330e20f3bce5c4a42af2812727fb916f
+  - enabled: 1
+    path: Assets/Scenes/Blue win.unity
+    guid: 769ae413504df6b4e9d13af1e27d2a43
+  - enabled: 1
+    path: Assets/Scenes/Red again.unity
+    guid: bab6bab520878c942ac721523f80c06a
+  - enabled: 1
+    path: Assets/Scenes/Blue again.unity
+    guid: 04acedde0dd6f42479fae7e1f27d544f
+  m_configObjects: {}
